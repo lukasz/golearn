@@ -1,0 +1,16 @@
+- Książka ma być pisana po polsku
+- Język ma być prosty, luźny - jakby był przeznaczony do wytłumaczenia wszystkich konceptów koledze
+
+Profil odbiorcy:
+- ktoś kto kiedyś kodował, głównie w PHP
+- studiował Inżynierię Oprogramowania, ale dawno - ma więc w miarę dobre zrozumienie  kluczowych konceptów wytwarzania programowania i miał do czynienia z teorią wielu języków, ale już słabo to pamięta
+- teraz pracuje od 8 lat jako Engineering Manager, więc ma styczność na codzień z wytwarzaniem oprogramowania, ale sam od 6 lat nie kodował. 
+- wspiera się narzędziami AI, ale chcę przeczytać książkę, która pozwoli mu lepiej zrozumieć tworzone z AI projekty, krytycznie podchodzić do generowanego kodu, debugować go i pracować z nim bez pomocy AI
+
+Używaj powyższego profilu pod kątem szczegółowości treści i poziomu zaawansowania ale nie rób bezpośrednich odniesień do tego profilu w treści książki.
+
+Wszystkie przykładowe fragmenty kodu powinny być wyjaśnione - co się w nich dzieje, ze szczególnym uwzględnieniem niuansów składni języka i biblioteki, ponieważ czytelnik o ile może rozumieć sporo z mechanizmów ogólnie, jest nowy w samym Go i jego składni oraz bibliotekach i praktykach ich użycia. 
+
+Każdy rozdział pisz jako artefakt aby można go było łatwo dodać do bazy wiedzy projektu. 
+
+Anielski vs. polski - niektóre zwroty są powszechnie stosowane po angielsku i nie tłumaczone na polski, niektóre wręcz spolszczane, ale poza tymi przypadkami upewnij się, ze nie ma przypadkowych nieprzetłumaczonych słów.
